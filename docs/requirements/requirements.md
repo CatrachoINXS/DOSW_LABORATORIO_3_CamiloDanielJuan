@@ -157,3 +157,21 @@
 | Paso | Actor   | Descripción                                | Excepciones                                          |
 | :--- | :------ | :----------------------------------------- | :--------------------------------------------------- |
 | 1    | Cliente | Intenta seleccionar un ingrediente agotado | El sistema lo bloquea y muestra solo los disponibles |
+
+#### REGLAS DE NEGOCIO
+
+| No. | Descripcion                                                                                                 |
+| --- | ----------------------------------------------------------------------------------------------------------- |
+| 1   | Solo se pueden elegir ingredientes disponibles |
+| 2   | El precio se calcula sumando el valor base con el valor de los ingredientes adicionales                                                          |
+| 3   | El roll entra a la cola de preparación respetando el limite de tandas de 6 unidades maximo.                                                   |
+
+---
+
+## Preguntas de análisis crítico
+
+- **a)** Analizando bien la tabla de los requerimientos funcionales creemos que deberiamos detallar un poco mas los requerimientos SS-02, SS-03, SS-04 que hablan sobre agregar, modificar y eliminar items del pedido. Hay que aclarar que eso se puede hacer mientras el pedido este en estado RECIBIDO.
+  
+- **b)** No vimos requerimientos que se contradigan entre si como tal.
+- **c)** SS-01 y SS-02 consideramos son los mas importantes, porque son la base para poder crear los pedidos, sin pedidos no tenemos que confirmar ni que cambiar de estado.
+- **d)** El SS-08 de generar reporte de ventas. Consideramos que no es tan relevante para la operacion diaria porque no interviene directamente en el ciclo de los pedidos. 
