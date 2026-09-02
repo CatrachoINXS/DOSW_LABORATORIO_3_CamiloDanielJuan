@@ -45,7 +45,8 @@ Pasos para aprobar un Pull Request
 ## Brand Kit – Sakura Sushi
 
 ## Logo
-[Inserte aquí la imagen del logo que ya tienen]
+
+![alt text](/docs/images/logo.png)
 
 ## Paleta de Colores
 | Color | Hex | Uso |
