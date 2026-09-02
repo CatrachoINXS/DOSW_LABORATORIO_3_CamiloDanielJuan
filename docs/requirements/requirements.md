@@ -158,6 +158,8 @@
 | :--- | :------ | :----------------------------------------- | :--------------------------------------------------- |
 | 1    | Cliente | Intenta seleccionar un ingrediente agotado | El sistema lo bloquea y muestra solo los disponibles |
 
+![alt text](/docs/images/screen-3.png)
+
 #### REGLAS DE NEGOCIO
 
 | No. | Descripcion                                                                                                 |
