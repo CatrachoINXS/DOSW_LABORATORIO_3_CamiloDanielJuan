@@ -40,3 +40,29 @@ Pasos para aprobar un Pull Request
 - Cardellino, F. (2021, 26 enero). Cómo hacer tu primer pull request en GitHub. freeCodeCamp.org. https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/
 - Acerca de los pull requests - Documentación de GitHub. (s. f.). GitHub Docs. https://docs.github.com/es/pull-requests/get-started/about-pull-requests
 - Aprobación de una pull request con revisiones requeridas - Documentación de GitHub. (s. f.). GitHub Docs. https://docs.github.com/es/pull-requests/how-tos/review-pull-requests/approving-a-pull-request-with-required-reviews
+
+
+## Brand Kit – Sakura Sushi
+
+## Logo
+
+![alt text](/docs/images/logo.png)
+
+## Paleta de Colores
+| Color | Hex | Uso |
+|-------|-----|-----|
+| Rojo Torii | `#D32F2F` | Botones primarios, acentos, estado "activo" |
+| Negro Azabache | `#1A1A1A` | Textos principales, encabezados |
+| Blanco Nieve | `#FFFFFF` | Fondos de tarjetas, textos sobre fondo oscuro |
+| Dorado Premium | `#C9A84C` | Detalles de rolls especiales, precios |
+| Crema Arroz | `#F9F6F0` | Fondo general de la aplicación |
+| Verde Wasabi | `#7CB342` | Confirmaciones, estados "disponible" |
+
+## Tipografía
+- **Títulos y encabezados:** `Montserrat` (Bold 700) – moderna y legible.
+- **Cuerpo de texto y precios:** `Inter` (Regular 400) – alta legibilidad en pantallas.
+- *Alternativa japonesa (opcional):* `Noto Sans JP` para dar un toque cultural en el título principal.
+
+## Iconografía
+- Íconos de línea fina (outline) para mantener la estética minimalista japonesa.
+- Elementos clave: Sushi roll, Chopsticks, Chef hat, Wasabi, Timer (para cocina), Bill (para pagos).
