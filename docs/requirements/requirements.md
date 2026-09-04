@@ -180,11 +180,11 @@
 
 | Código del Requerimiento | Nombre del Requerimiento | Pantalla(s) Asociada(s) | Ruta del Mockup |
 |---------------------------|--------------------------|-------------------------|-----------------|
-| SS-01 | Consultar carta con disponibilidad | Pantalla 2 - Carta Digital | ![alt text](/docs/images/screen-2.png) |
-| SS-09 | Escoger ingredientes de un roll | Pantalla 3 - Personalizar Roll | ![alt text](/docs/images/screen-3.png) |
-| SS-02 / SS-03 / SS-04 | Agregar/Modificar/Eliminar ítems | Pantalla 4 - Carrito | ![alt text](/docs/images/screen-4.png) |
-| SS-05 | Confirmar y enviar a cocina | Pantalla 5 - Confirmación | ![alt text](/docs/images/screen-5.png) |
-| SS-06 / SS-10 | Cambiar estado / Tandas de 6 | Pantalla 6 - Tablero Cocina | ![alt text](/docs/images/screen-6.png) |
-| SS-RNF-06 | Control de inventario | Pantalla 7 - Gestión Inventario | ![alt text](/docs/images/screen-7.png) |
-| SS-08 | Reporte de ventas | Pantalla 8 - Reportes | ![alt text](/docs/images/screen-8.png) |
-| RNF-01 | Inicio de sesión por roles | Pantalla 1 - Login | ![alt text](/docs/images/screen-1.png) |
+| SS-01 | Consultar carta con disponibilidad | Pantalla 2 - Carta Digital | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-2.png) |
+| SS-09 | Escoger ingredientes de un roll | Pantalla 3 - Personalizar Roll | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-3.png) |
+| SS-02 / SS-03 / SS-04 | Agregar/Modificar/Eliminar ítems | Pantalla 4 - Carrito | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-4.png) |
+| SS-05 | Confirmar y enviar a cocina | Pantalla 5 - Confirmación | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-5.png) |
+| SS-06 / SS-10 | Cambiar estado / Tandas de 6 | Pantalla 6 - Tablero Cocina | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-6.png) |
+| SS-RNF-06 | Control de inventario | Pantalla 7 - Gestión Inventario | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-7.png) |
+| SS-08 | Reporte de ventas | Pantalla 8 - Reportes | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-8.png) |
+| RNF-01 | Inicio de sesión por roles | Pantalla 1 - Login | ![alt text](/DOSW_LABORATORIO_3_CamiloDanielJuan/docs/images/screen-1.png) |
