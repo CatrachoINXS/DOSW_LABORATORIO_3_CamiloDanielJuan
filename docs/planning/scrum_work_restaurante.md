@@ -133,3 +133,15 @@ de cocina.
 ilícitos entre estados.
 * **SUB-12:** Implementar la persistencia de auditoría para registrar la fecha, hora exacta y el id del usuario que 
 realiza cada cambio de estado.
+
+---
+### **ESTIMACIÓN POR PLANNING POKER**
+
+#### **Estimación (puntos) a cada historia de usuario:** 
+
+- **HU-01:** 5 puntos.
+- **HU-02:** 5 puntos.
+- **HU-03:** 3 puntos.
+- **HU-04:** 4 puntos.
+
+#### **Enlace del video de Planning Poker a la historia grabada:** https://drive.google.com/file/d/1RbC_6bFqwq5cWOjUiNY7acVhzZzxP2bb/view?usp=sharing
