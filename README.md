@@ -88,3 +88,7 @@ Dado que en esta historia obtuvimos un consenso inmediato, acordamos que ante ev
 con la estimación más alta explica los riesgos técnicos o casos borde no contemplados, mientras que el de la estimación
 más baja justifica la sencillez del alcance. A partir de esa discusión sobre los criterios de aceptación, el equipo
 reajusta y busca un punto de convergencia.
+
+
+## Link Jira
+https://mail-team-splyq9d8.atlassian.net/jira/software/projects/SS/boards/34/backlog?atlOrigin=eyJpIjoiMGMwY2YzMTYxZTk4NDk5YjlkMTA2ZjgyZTI5ZWQyZDEiLCJwIjoiaiJ9
