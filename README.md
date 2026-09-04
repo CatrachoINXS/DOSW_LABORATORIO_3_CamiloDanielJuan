@@ -66,3 +66,25 @@ Pasos para aprobar un Pull Request
 ## Iconografía
 - Íconos de línea fina (outline) para mantener la estética minimalista japonesa.
 - Elementos clave: Sushi roll, Chopsticks, Chef hat, Wasabi, Timer (para cocina), Bill (para pagos).
+
+
+## Reflexión sobre la Estimación con Planning Poker.
+
+### 1. ¿Cuál fue la mayor dificultad a la hora de estimar?
+La mayor dificultad radicó en desglosar y visualizar todas las capas técnicas requeridas antes de asignar el puntaje. 
+Por ejemplo, en la **HU-01**, no solo debíamos evaluar la interfaz visual para la selección de ingredientes, sino también
+la complejidad de validar la disponibilidad de inventario en tiempo real desde el backend y asegurar la integridad de los
+precios para evitar inconsistencias en el sistema.
+
+### 2. ¿Fue fácil llegar a un consenso?
+Sí, fue muy sencillo. Ambos integrantes analizamos previamente los criterios de aceptación y las subtareas técnicas definidas.
+Al momento de la votación simultánea, ambos elegimos **5 puntos de historia**, ya que coincidimos en que la funcionalidad
+representa una complejidad media: requiere lógica de interfaz en el cliente y validación estricta de stock/precios en el
+servidor.
+
+### 3. ¿Cómo resolvieron las discrepancias grandes?
+Dado que en esta historia obtuvimos un consenso inmediato, acordamos que ante eventuales discrepancias grandes 
+(por ejemplo, entre 3 y 8 puntos), la estrategia sería dar la palabra a los roles con los votos extremos. El integrante
+con la estimación más alta explica los riesgos técnicos o casos borde no contemplados, mientras que el de la estimación
+más baja justifica la sencillez del alcance. A partir de esa discusión sobre los criterios de aceptación, el equipo
+reajusta y busca un punto de convergencia.

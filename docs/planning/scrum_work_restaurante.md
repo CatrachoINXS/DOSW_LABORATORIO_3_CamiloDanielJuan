@@ -41,6 +41,7 @@ producción de máximo 6 rolls y gestionando el cambio de estados de cada pedido
   de diferenciación en la experiencia del cliente.
 * **Formato:** Como cliente, quiero seleccionar los ingredientes de mi roll para personalizar mi pedido según mis
 preferencias e intolerancias alimentarias.
+* **Estimacion de puntos:** 5 puntos.
 
 #### **Criterios de Aceptación:**
 1. **Dado** que el cliente está en la pantalla de armado de roll, **cuando** selecciona ingredientes disponibles, 
@@ -67,6 +68,7 @@ antes de permitir agregar el roll al carrito.
   órdenes para iniciar la producción.
 * **Formato:** Como mesero, quiero confirmar el pedido de una mesa para enviarlo automáticamente al tablero de la barra 
 de sushi sin necesidad de comandas físicas en papel.
+* **Estimacion de puntos:** 5 puntos.
 
 #### **Criterios de Aceptación:**
 1. **Dado** que una mesa tiene una cuenta abierta y un pedido con al menos un ítem, **cuando** el mesero presiona 
@@ -94,6 +96,7 @@ tablero de la cocina instantáneamente.
   con más de 6 unidades por tanda.
 * **Formato:** Como personal de cocina, quiero visualizar los rolls entrantes organizados en tandas de máximo 6 unidades
 para mantener un flujo de preparación ordenado en la barra.
+* **Estimacion de puntos:** 8 puntos.
 
 #### **Criterios de Aceptación:**
 1. **Dado** que entran pedidos confirmados al tablero de cocina, **cuando** el sistema procesa los rolls solicitados, 
@@ -119,6 +122,7 @@ unidades manteniendo la precedencia del pedido.
   en el salón.
 * **Formato:** Como personal de cocina, quiero actualizar el estado de cada pedido a medida que avanza su preparación
 para reflejar el progreso en tiempo real.
+* **Estimacion de puntos:** 4 puntos.
 
 #### **Criterios de Aceptación:**
 1. **Dado** que un pedido está en el tablero de cocina, **cuando** el cocinero interactúa con él, **entonces** el 
@@ -133,3 +137,15 @@ de cocina.
 ilícitos entre estados.
 * **SUB-12:** Implementar la persistencia de auditoría para registrar la fecha, hora exacta y el id del usuario que 
 realiza cada cambio de estado.
+
+---
+### **ESTIMACIÓN POR PLANNING POKER**
+
+#### **Estimación (puntos) a cada historia de usuario:** 
+
+- **HU-01:** 5 puntos.
+- **HU-02:** 5 puntos.
+- **HU-03:** 8 puntos.
+- **HU-04:** 4 puntos.
+
+#### **Enlace del video de Planning Poker a la historia grabada:** https://drive.google.com/file/d/1RbC_6bFqwq5cWOjUiNY7acVhzZzxP2bb/view?usp=sharing
